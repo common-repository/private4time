@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Private4time\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-10 19:21+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter Gross <p-gross@worldweb-innovation.de>\n"
+"Language-Team: Peter Gross (http://blog-me.de) <info@blog-me.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\blog-me\\wpmu\\plugins\\private4time\n"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:100
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:151
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:225
+msgid "Private4Time"
+msgstr "Private4Time"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:136
+msgid "Options saved"
+msgstr "Einstellungen sind gespeichert"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:151
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:152
+msgid "Set your blog private for a time periode"
+msgstr "Setze deinen Blog zeitweise auf privat"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:162
+msgid "time:"
+msgstr "Zeit:"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:162
+msgid " time zone: "
+msgstr " Zeitzone: "
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:167
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:169
+msgid " Set Blog &quot;Private&quot;"
+msgstr " Setze Blog &quot;Privat&quot;"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:171
+msgid " from: "
+msgstr " von: "
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:186
+msgid " to: "
+msgstr " bis: "
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:205
+msgid "<br />With this option, you can set your whole blog permanently or periodically to &quot;private&quot;.<br />From 00:00 to 00:00 sets permanent to &quot;private&quot;!<br />Only blog-registered users can access to your blog."
+msgstr "<br />Mit dieser Option kann der ganze Blog dauerhaft oder zeitweise &quot;privat&quot;gesetzt werden.<br />Von 00:00 bis 00:00 Uhr setzt den Blog dauerhaft &quot;privat&quot;!<br />Nur registrierte Benutzer können auf den Blog zugreifen."
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:213
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:215
+msgid " Allow User Registration for your blog (not during &quot;private&quot; period)."
+msgstr " Erlaube Benutzer Registrierung für diesen Blog (ausser bei &quot;privatem&quot; Blog)."
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:218
+msgid "With this option, you can allow or disallow user registration for your blog.<br />On multible blog Wordpress installations (or wpmu) this option works only if site-wide registration is allowed.<br /><br />"
+msgstr "Mit dieser Option kann Benutzer Registrierung für den Blog ein- oder ausgeschaltet werden.<br />Auf Wordpress Multiple Blogs Installationen (oder WPMU) arbeitet diese Option nur, wenn vom Site Administrator Registrierungen grundsätzlich erlaubt sind.<br /><br />"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:224
+msgid "Save Changes"
+msgstr ""
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:225
+msgid " is powered by "
+msgstr " ist zur Verfügung gestellt von "
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:225
+msgid "Create your free Wordpress Blog!"
+msgstr "Erstelle deinen kostenlosen Wordpress Blog!"
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:276
+#, php-format
+msgid "Warning: This plugin needs PHP5 for timezone setting. <br />%s is used instead."
+msgstr "Warnung: Dieses Plugin benötigt PHP5 um die Zeitzone zu setzten. <br />Es wird %s als Zeitzone verwendet."
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:302
+#, php-format
+msgid "Warning: The timezone %s cannot be set. <strong>%s</strong> is used instead.<br />To avoid this, please select a timezone city in the common settings."
+msgstr "Warnung: Die Zeitzone %s kann nicht gesetzt werden. Es wird <strong>%s</strong> verwendet.<br />Bitte wähle eine Stadt-Zeitzone in den allgemeinen Einstellungen."
+
+#: D:\xampp\htdocs\blog-me\wpmu\plugins\private4time/private4time.php:306
+#, php-format
+msgid "Warning: The actual timezone is empty! Please check your Wordpress configuration.<br /><strong>%s</strong> is used instead."
+msgstr "Warnung: Die aktuelle Zeitzone ist nicht gesetzt. Bitte die Wordpress Installation überprüfen.<br />Es wird <strong>%s</strong> als Zeitzone verwendet."
+
+#~ msgid ""
+#~ "The timezone %s cannot be set. No problem: <strong>%s</strong> is used "
+#~ "instead.<br />To avoid this, please select a timezone \"city\" in the "
+#~ "common settings."
+#~ msgstr ""
+#~ "Die Zeitzone %s kann nicht gesetzt werden. Kein Problem: es wird <strong>%"
+#~ "s</strong> verwendet.<br />Bitte wähle eine \"Stadt\"-Zeitzone in den "
+#~ "allgemeinen Einstellungen."
+#~ msgid ""
+#~ "The timezone %s cannot be set. No problem: <strong>%s</strong> is used "
+#~ "instead."
+#~ msgstr ""
+#~ "Die Zeitzone %s kann nicht gesetzt werden. Kein Problem: es wird <strong>%"
+#~ "s</strong> als Zeitzone verwendet.."
+#~ msgid "The timezone %s cannot be set."
+#~ msgstr "Zeitzone %s kann nicht gesetzt werden."
+
